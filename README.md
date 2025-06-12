@@ -123,3 +123,18 @@ Notebook, işlemler sırasında detaylı bilgi ve hata ayıklama logları üretm
 * **Logger Başlatma:** Notebook'ta `logger` objesinin varlığı sıkça kontrol ediliyor. Eğer bu notebook bağımsız çalıştırılacaksa, en başta bir logger konfigürasyon hücresi (genellikle "Hücre 0" olarak adlandırılır) eklenmesi, logların daha düzenli ve merkezi bir şekilde yönetilmesini sağlar.
 * **BLEURT Checkpoint Esnekliği:** BLEURT checkpoint yolu şu anda sabit. Farklı checkpoint'ler veya otomatik indirme mekanizmaları eklenebilir.
 * **Hata Yönetimi:** Kodda birçok `try-except` bloğu mevcut, bu iyi bir pratiktir. Hata mesajları daha kullanıcı dostu hale getirilebilir veya spesifik hata türlerine göre farklı aksiyonlar alınabilir.
+
+
+
+## 📞 İletişim
+
+🐛 **Bug Report**: GitHub Issues kullanın  
+💡 **Feature Request**: Discussions bölümünden önerinizi paylaşın  
+📧 E-posta: [mehmetaksoy49@gmail.com]
+
+- Pull Request ile katkıda bulunun
+- Projeyi yıldızlamayı unutmayın! ⭐
+
+---
+
+**Not**: Bu proje eğitim amaçlı geliştirilmiştir ve akademik çalışmalarda referans olarak kullanılabilir.
